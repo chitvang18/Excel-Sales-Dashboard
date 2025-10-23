@@ -1,4 +1,4 @@
-# Vrinda store analysis yearly project
+# Vrinda store yearly analysis project
 Excel Sales Analysis Project
 
 🧠PROJECT OVERVIEW
